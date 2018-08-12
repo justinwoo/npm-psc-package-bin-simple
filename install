@@ -12,7 +12,7 @@ rm -rf ./psc-package
 # osx or linux install
 if [ "$(uname -s)" == "Darwin" ]
 then
-  wget -O ./psc-package.tar.gz https://github.com/purescript/psc-package/releases/download/$TAG/macos.tar.gz
+  curl --location --output ./psc-package.tar.gz --silent https://github.com/purescript/psc-package/releases/download/$TAG/macos.tar.gz
 else
   wget -O ./psc-package.tar.gz https://github.com/purescript/psc-package/releases/download/$TAG/linux64.tar.gz
 fi
