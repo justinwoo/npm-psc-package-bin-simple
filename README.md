@@ -10,4 +10,5 @@ Instead of awkwardly trying to follow the same versioning scheme, the following 
 
 | npm package | psc-package |
 | ----------- | ----------- |
+| 1.0.1       | 0.4.1       |
 | 1.0.0       | 0.4.1       |
