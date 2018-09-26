@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-TAG=v0.4.1
+TAG=v0.4.2
 
 # exit if there is evidence of installation
 [ -e ./psc-package.tar.gz ] && exit 0;
