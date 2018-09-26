@@ -20,5 +20,6 @@
   "bin": {
     "psc-package": "./psc-package/psc-package"
   },
+  "keywords": ["purescript", "psc-package", "spacchetti"],
   "license": "MIT"
 }
