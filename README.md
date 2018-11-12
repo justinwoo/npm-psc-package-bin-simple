@@ -1,6 +1,6 @@
 # npm-psc-package-bin-simple
 
-A simple distribution of psc-package using NPM. Assumes almost nothing other than Linux/OSX.
+A simple distribution of psc-package using NPM.
 
 npm package link: <http://npmjs.com/package/psc-package-bin-simple>
 

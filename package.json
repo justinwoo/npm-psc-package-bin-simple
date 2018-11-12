@@ -9,16 +9,22 @@
   },
   "main": "index.js",
   "files": [
-    "install",
+    "install.js",
     "psc-package",
     "psc-package/psc-package"
   ],
   "scripts": {
-    "install": "./install"
+    "preinstall": "node ./install.js"
   },
   "author": "Justin Woo",
   "bin": {
-    "psc-package": "./psc-package/psc-package"
+    "psc-package": "./psc-package/psc-package.exe"
+  },
+  "psc-package-version": "v0.4.2",
+  "dependencies": {
+    "follow-redirects": "^1.5.9",
+    "shelljs": "^0.8.2",
+    "tar": "^4.4.8"
   },
   "keywords": ["purescript", "psc-package", "spacchetti"],
   "license": "MIT"
