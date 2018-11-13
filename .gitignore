@@ -1,4 +1,3 @@
 *.tar.gz
-psc-package/psc-package
-psc-package/psc-package.exe
+psc-package/*
 !.gitkeep
