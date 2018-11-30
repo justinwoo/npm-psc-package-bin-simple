@@ -4,6 +4,22 @@ A simple distribution of psc-package using NPM.
 
 npm package link: <http://npmjs.com/package/psc-package-bin-simple>
 
+## Installation
+
+You can install this into your project dependencies:
+
+```
+npm install -S psc-package
+```
+
+## CLI
+
+You can also install this globally:
+
+```
+npm install -g psc-package
+```
+
 ## Version history
 
 Instead of awkwardly trying to follow the same versioning scheme, the following table should be consulted if you need a specific series of versions:
