@@ -1,6 +1,6 @@
 {
   "name": "psc-package-bin-simple",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "",
   "homepage": "https://github.com/justinwoo/npm-psc-package-bin-simple",
   "repository": {
@@ -20,7 +20,7 @@
   "bin": {
     "psc-package": "./psc-package/psc-package.exe"
   },
-  "psc-package-version": "v0.5.0",
+  "psc-package-version": "v0.5.1",
   "dependencies": {
     "follow-redirects": "^1.5.9",
     "shelljs": "^0.8.2",
