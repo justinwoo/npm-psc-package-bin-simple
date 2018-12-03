@@ -26,6 +26,7 @@ Instead of awkwardly trying to follow the same versioning scheme, the following 
 
 | npm package | psc-package |
 | ----------- | ----------- |
+| 3.0.1       | 0.5.1       |
 | 3.0.0       | 0.5.0       |
 | 2.0.1       | 0.4.2       |
 | 2.0.0       | 0.4.2       |
